@@ -1,6 +1,6 @@
 ## Notice of Non-Affiliation and Disclaimer
 
-Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Ungoogled Chromium™, or any of its subsidiaries or its affiliates.
+WhatWare is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Ungoogled Chromium™, or any of its subsidiaries or its affiliates.
 
 The official Ungoogled Chromium™ website can be found at https://github.com/Eloston/ungoogled-chromium.
 
